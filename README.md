@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Using-Transactions-Data
-This project focuses on detecting fraudulent credit card transactions using advanced machine learning techniques. By leveraging various classification models, including Logistic Regression, Linear Discriminant Analysis (LDA), and Gaussian Naive Bayes (GNB), this project aims to identify potentially fraudulent activities with high accuracy.
+This project focuses on detecting fraudulent credit card transactions using advanced machine-learning techniques. By leveraging various classification models, including Logistic Regression, Linear Discriminant Analysis (LDA), and Gaussian Naive Bayes (GNB), this project aims to identify potentially fraudulent activities with high accuracy.
 
 ## Key Components:
 
@@ -9,7 +9,7 @@ Imported and explored the dataset to understand its structure and characteristic
 #### Preprocessing: 
 Applied normalization techniques to preprocess the data for effective model training.
 #### Resampling: 
-Utilized SMOTE for balancing the dataset to address class imbalance.
+Utilized SMOTE for balancing the dataset to address the class imbalance.
 
 ### Model Building:
 #### Train-Test Split: 
@@ -28,7 +28,7 @@ Evaluated the best-performing model (Logistic Regression) using accuracy score, 
 Tested the model on sample data to classify transactions as either fraudulent or normal.
 
 ### Technologies Used:
-Python
-Scikit-learn
-Pandas
+Python, 
+Scikit-learn, 
+Pandas, 
 NumPy
